@@ -1,4 +1,4 @@
-public class Reclass {
+public class ReClass {
     public static String getnumberstandart(String a) {
         return a.toLowerCase().replaceAll("\\s|\\.", "");
     }
