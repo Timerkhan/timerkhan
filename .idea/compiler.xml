@@ -3,7 +3,7 @@
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="Javac" />
     <excludeFromCompile>
-      <file url="file://$PROJECT_DIR$/src/reclass.java" />
+      <file url="file://$PROJECT_DIR$/src/ReClass.java" />
     </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
